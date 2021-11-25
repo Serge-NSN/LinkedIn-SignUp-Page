@@ -2,7 +2,7 @@ html, body {
     background-color: rgb(243, 242, 239) overflow:hidden;
 }
 body{
-    height: 500%;
+    min-height: 100%;
 }
 #main{
     width: 380px;
