@@ -1,6 +1,8 @@
 html, body {
-
-    background-color: rgb(243, 242, 239) overflow:scroll;
+    background-color: rgb(243, 242, 239) overflow:hidden;
+}
+body{
+    height: 200%;
 }
 #main{
     width: 380px;
