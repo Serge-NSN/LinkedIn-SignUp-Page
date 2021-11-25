@@ -1,6 +1,6 @@
 html, body {
 
-    background-color: rgb(243, 242, 239); overflow:hidden;
+    background-color: rgb(243, 242, 239);
 }
 #main{
     width: 380px;
@@ -144,11 +144,6 @@ a{
     }
     h1{
         padding-left: 0px;
-    }
-    ul{
-    columns: 2;
-    -webkit-columns: 1;
-    -moz-columns: 2; 
     }
     #signinForm{
         box-shadow: none;
