@@ -127,6 +127,9 @@ a{
     text-decoration: none;
     color: inherit;
 }
+#signinForm{ 
+    box-shadow: 0 0 10px;
+}
 @media only screen and (max-width: 1160px){
     body,html{
         background-color: white;
@@ -138,7 +141,6 @@ a{
     footer{
         display: none;
         margin-left: -20px;
-        
     }
     h1{
         padding-left: 0px;
@@ -148,6 +150,8 @@ a{
     -webkit-columns: 1;
     -moz-columns: 2; 
     }
-
+    #signinForm{
+        box-shadow: none;
+    }
 }
     
